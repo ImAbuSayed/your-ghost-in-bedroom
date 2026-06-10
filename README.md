@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-ghost-in-bedroom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Your Ghost In Bedroom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-ghost-in-bedroom/) |
+| **Get License** | [Secure Licensing Rights for Your Ghost In Bedroom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-ghost-in-bedroom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There's a shadow dancing right across the wall
+> And I can almost hear the way you softly call
+> It's a midnight memory that I can't erase
+> Just craving the heat of our private space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
