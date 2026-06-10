@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-ghost-in-bedroom/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Your Ghost In Bedroom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-ghost-in-bedroom/) |
+| **Get License** | [Obtain a Music License for Your Ghost In Bedroom](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-ghost-in-bedroom/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2cca1fd22fa4febfd1ecc8f0a1f5742f5fa6e2f3bf1fce3ce35c076438cc0f6f` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

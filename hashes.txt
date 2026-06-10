@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Ghost In Bedroom
+
+This log tracks the cryptographic history and versioning for the song **Your Ghost In Bedroom** (your-ghost-in-bedroom).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T17:04:43.749583 | `v1` | `2cca1fd22fa4febfd1ecc8f0a1f5742f5fa6e2f3bf1fce3ce35c076438cc0f6f` | `560658593c0bf248d509a3232e681aeb9467bd06541a8b95cc3b39ecb4c93ffc` | `2026-06-10_your-ghost-in-bedroom-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
